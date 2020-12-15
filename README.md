@@ -26,4 +26,4 @@ Also you can find some projects on Artificial Intelliegence in Medical Science
 * [Diabetes-Prediction-using-Logistic-Regression](https://github.com/Prajwal10031999/Diabetes-Prediction-using-Logistic-Regression)
 
 
-You can find me [Here](www.linkedin.com/in/prajwal-shegaonkar-b94a23183)
+You can find me [Here](https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183/)
