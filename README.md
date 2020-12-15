@@ -25,4 +25,5 @@ Also you can find some projects on Artificial Intelliegence in Medical Science
 * [Alzheimer-s-Classification-using-DenseNet169](https://github.com/Prajwal10031999/Alzheimer-s-Classification-using-DenseNet169)
 * [Diabetes-Prediction-using-Logistic-Regression](https://github.com/Prajwal10031999/Diabetes-Prediction-using-Logistic-Regression)
 
+
 You can find me at : www.linkedin.com/in/prajwal-shegaonkar-b94a23183
