@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Screenshot](git1.png)
 
 I'm a Machine Learning and Data Science enthusiast.  <br />
 I've completed projects regarding machine learning, data science, deep learning & neural networks.  <br />
