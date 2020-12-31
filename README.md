@@ -27,10 +27,8 @@
 I have done many projects regarding Machine Learning & Deep Learning <br />
 & I have mentioned some specific projects below : <br />
 <br />
-<br />
-You can check my end-to-end projects :
+You can check my end-to-end projects : <br />
 * [Flight Fare Prediction ML flask web-app](https://github.com/Prajwal10031999/Flight-Fare-Prediction-ML-Web-App-With-Deployment)
-<br />
 <br />
 Also you'll find some projects regarding Deep Learning with Transfer Learning techniques viz :<br />
 
@@ -41,15 +39,14 @@ Also you'll find some projects regarding Deep Learning with Transfer Learning te
 * [MOBILENET](https://github.com/Prajwal10031999/Face-Mask-Detection-Using-MobileNETV2-)
 * [DENSENET](https://github.com/Prajwal10031999/Alzheimer-s-Classification-using-DenseNet169)
 <br />
-<br />
 Also you can find some projects on Artificial Intelliegence Application in Medical Science :
 
 * [Cataract-Detection-using-VGG-19](https://github.com/Prajwal10031999/Cataract-Detection-using-VGG-19)
 * [Alzheimer-s-Classification-using-DenseNet169](https://github.com/Prajwal10031999/Alzheimer-s-Classification-using-DenseNet169)
 * [Diabetes-Prediction-using-Logistic-Regression](https://github.com/Prajwal10031999/Diabetes-Prediction-using-Logistic-Regression)
 <br />
-<br />
 And some of my Machine Learning Projects viz :
+
 * [Movie-Recommendation-System](https://github.com/Prajwal10031999/Movie-Recommendation-System-Using-Cosine-Similarity/blob/main/imdb_recommendation_system.py)
 * [Credit-Card-Fraud-Detection](https://github.com/Prajwal10031999/Credit-Card-Fraud-Detection-using-Random-Forest)
 * [Diabetes-Prediction](https://github.com/Prajwal10031999/Diabetes-Prediction-using-Logistic-Regression)
