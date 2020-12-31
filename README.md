@@ -1,7 +1,8 @@
-![Screenshot](hack.png)
+![Screenshot](hack1.png)
 
 ### Hi there 👋
 
+Python Lover ![Logo](pylogo.png)
 I'm a Machine Learning and Data Science enthusiast.  <br />
 I've done projects regarding machine learning, artificial intelligence, data science, deep learning & neural networks.  <br />
 
