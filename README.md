@@ -34,3 +34,4 @@ And some of my Machine Learning Projects viz :
 
 
 You can find me [Here](https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183/)
+[linkedin]: https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183/
