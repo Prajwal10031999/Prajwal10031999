@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Python Lover ![Logo](pylogo.png)
+Python Lover ![Logo](pylogo.png =250x250)
 I'm a Machine Learning and Data Science enthusiast.  <br />
 I've done projects regarding machine learning, artificial intelligence, data science, deep learning & neural networks.  <br />
 
