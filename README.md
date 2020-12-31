@@ -27,8 +27,10 @@
 I have done many projects regarding Machine Learning & Deep Learning <br />
 & I have mentioned some specific projects below : <br />
 <br />
-You can check my end-to-end projects : <br />
-* [Flight Fare Prediction ML flask web-app](https://github.com/Prajwal10031999/Flight-Fare-Prediction-ML-Web-App-With-Deployment)
+
+You can check my end-to-end projects : 
+* [Flight Fare Prediction ML flask web-app](https://github.com/Prajwal10031999/Flight-Fare-Prediction-ML-Web-App-With-Deployment) 
+
 <br />
 Also you'll find some projects regarding Deep Learning with Transfer Learning techniques viz :<br />
 
