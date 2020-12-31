@@ -33,5 +33,6 @@ And some of my Machine Learning Projects viz :
 * [Titanic-Passenger-Survival-Predictions](https://github.com/Prajwal10031999/Titanic-Passenger-Survival-Predictions-using-machine-learning)
 
 
-You can find me [Here](https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183/)
-[linkedin]: https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183/
+You can find me [Here](https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183/) <br />
+
+[linkedin]: https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183
