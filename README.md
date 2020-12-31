@@ -1,9 +1,9 @@
-![Screenshot](abcd1.png)
+
 
 ### Hi there 👋
 
-Python Lover..!! <br />
-I'm a Machine Learning and Data Science enthusiast.  <br />
+I'm a Python Lover..!! <br />
+Also a Machine Learning & Deep Learning & Data Science enthusiast.  <br />
 I've done projects regarding machine learning, artificial intelligence, data science, deep learning & neural networks.  <br />
 
 
