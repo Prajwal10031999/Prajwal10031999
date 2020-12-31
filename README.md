@@ -23,15 +23,6 @@
 
 
 
-
-
-### Hi there 👋
-
-I'm a Python Lover..!! <br />
-Also a Machine Learning & Deep Learning & Data Science enthusiast.  <br />
-I've done projects regarding machine learning, artificial intelligence, data science, deep learning & neural networks.  <br />
-
-
 You can check my end-to-end projects :
 * [Flight Fare Prediction ML flask web-app](https://github.com/Prajwal10031999/Flight-Fare-Prediction-ML-Web-App-With-Deployment)
 
@@ -57,7 +48,3 @@ And some of my Machine Learning Projects viz :
 * [Diabetes-Prediction](https://github.com/Prajwal10031999/Diabetes-Prediction-using-Logistic-Regression)
 * [Titanic-Passenger-Survival-Predictions](https://github.com/Prajwal10031999/Titanic-Passenger-Survival-Predictions-using-machine-learning)
 
-
-You can find me [Here](https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183/) <br />
-
-[linkedin]: https://www.linkedin.com/in/prajwal-shegaonkar-b94a23183
