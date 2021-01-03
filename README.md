@@ -30,6 +30,7 @@
 
 You can check my end-to-end projects : 
 * [Flight Fare Prediction ML flask web-app](https://github.com/Prajwal10031999/Flight-Fare-Prediction-ML-Web-App-With-Deployment) 
+* [Handwritten-Digit-Recognition-CNN-Flask-App](https://github.com/Prajwal10031999/Handwritten-Digit-Recognition-CNN-Flask-App-)
 
 <br />
 Also you'll find some projects regarding Deep Learning with Transfer Learning techniques viz :<br />
