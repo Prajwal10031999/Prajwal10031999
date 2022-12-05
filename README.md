@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal10031999&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal10031999" /> </p>
 
-- 🌱 I’m currently learning **Big Data with PySpark**
+- 🌱 I’m currently learning **Time Series Forecasting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prajwal10031999](https://github.com/Prajwal10031999)
 
